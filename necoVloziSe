@@ -1,6 +1,0 @@
-<?php 
-// vùbec se mi nelíbí to
-echo 'Primitivní hláška';
-$s = 2 + 4
-echo $s;
-?>
