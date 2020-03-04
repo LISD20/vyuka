@@ -1,4 +1,5 @@
 <?php
 echo "Zelenina je zdravá";
 echo "Něco";
+ehco "Cokoli";
 ?>
